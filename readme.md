@@ -1,0 +1,1 @@
+Pure python implementations of common pathfinding algorithms for grid
